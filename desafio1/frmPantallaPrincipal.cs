@@ -14,6 +14,7 @@ namespace desafio1
     {
         public frmPantallaPrincipal()
         {
+            // agregamos un comentario para el GitHub
             InitializeComponent();
         }
 
